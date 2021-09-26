@@ -1,0 +1,39 @@
+.task-container {
+    background-color: rgba(19, 173, 199, .3);
+    margin: 8px 0;
+    padding: 10px 15px;
+    display: flex;
+    border-radius: 5px;
+    justify-content: space-between;
+    color: #eee;
+    align-items: center;
+    font-size: 14px;
+}
+
+.task-container:hover {
+    background-color: rgba(19, 173, 199, .4)
+}
+
+.task-title {
+    cursor: pointer
+}
+
+.buttons-container {
+    width: 30%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.remove-task-button, .see-task-details-button  {
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+    font-size: 18px;
+    color: rgb(19, 173, 199);
+    cursor: pointer;
+    margin: 0 5px
+}
+
+.remove-task-button, .see-task-details-button:hover {
+    background-color: rgba(255, 255, 255, 0)
+}
+

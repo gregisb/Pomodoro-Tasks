@@ -4,7 +4,7 @@
 
 Pomodoro Tasks é uma aplicação que une duas funcionalidades para produtividade: Pomodoro Timer e Todo List.
 
-- O Pomodoro Timer é setado com 25 minutos para trabalho, 5 minutos para short break e 15 minutos para long break. O usuário pode escolher entre as opções de acordo com o que precisa no momento.
+- O Pomodoro Timer é setado com 25 minutos para trabalho, 5 minutos para short break e 15 minutos para long break. O usuário pode escolher entre as opções de acordo com o que precisa no momento. Também é possível pausar e resetar o timer.
 - A Todo list permite com que o usuário adcione tarefas e marque quais foram concluídas enquanto usa a técnica pomodoro.
 
 - As tarefas ficam guardadas no LocalStorage.

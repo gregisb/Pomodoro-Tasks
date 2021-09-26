@@ -1,3 +1,4 @@
+<img src='https://github.com/gregisb/Pomodoro-Tasks/blob/main/public/pomodorotasks.png?raw=true' />
 
 # Pomodoro Tasks
 
